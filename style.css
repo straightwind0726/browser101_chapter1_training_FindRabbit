@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body { 
+    background-color: black;
+}
+
+.box {
+    background-color: black;
+    width: 250px;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.button {
+    background-color: brown;
+    width: 250px;
+    margin-top: 12px;
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+}
